@@ -33,12 +33,12 @@ pip install pygame
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/lava-run.git
+   git clone https://github.com/anishgoyal1108/Lava-Run
    ```
 
 2. Navigate into the project folder:
    ```bash
-   cd lava-run
+   cd Lava-Run
    ```
 
 3. Run the game:
