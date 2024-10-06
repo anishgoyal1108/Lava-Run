@@ -4,10 +4,10 @@
 ![image](https://github.com/user-attachments/assets/810fb33a-23ba-480e-9bb2-ec6ab9d41ff0)
 
 ## Authors
-- Anish Goyal
-- Harsh Singh
-- Sudeep Patel
-- Yubo Cao
+- Anish Goyal @anishgoyal1108
+- Harsh Singh @Harshsingh711
+- Sudeep Patel 
+- Yubo Cao @Yubo-Cao
 
 ## Introduction
 Lava Run is a simple yet thrilling game developed using PyGame, where the objective is to escape rising lava while avoiding randomly generated obstacles. The game challenges players to survive as long as possible by moving around the obstacles and moving up the screen to reset the lava's position. Every second counts as the lava continuously rises!
